@@ -3,4 +3,19 @@
   <groupId>MachLearn</groupId>
   <artifactId>machine.learn</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+
+
+
+	<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.deeplearning4j/deeplearning4j-core -->
+		<dependency>
+    		<groupId>org.deeplearning4j</groupId>
+    		<artifactId>deeplearning4j-core</artifactId>
+    		<version>0.8.0</version>
+		</dependency>
+	</dependencies>
+
+
+
 </project>
